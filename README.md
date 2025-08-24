@@ -26,5 +26,5 @@ A **simple and responsive Flutter application** that fetches **real-time weather
 ## 📸 Screenshot  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c001ec40-10ec-4852-a0f8-6d31e4c46cef" alt="Weather App Screenshot" width="300"/>
+  <img src="![Image](https://github.com/user-attachments/assets/a9742aac-9f6c-4545-98ac-5f334e0ae105)" width="300"/>
 </p>
